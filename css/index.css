@@ -1,0 +1,49 @@
+/* index.css */
+
+/* Variables */
+:root {
+    --orange: #f08c43;
+    --darkgrey: #726363;
+    --teal: #5ecacd;
+    --lightgrey: #f5f5f5;
+}
+
+/* Body */
+body {
+    background-color: var(--lightgrey);
+}
+
+/* Nav */
+nav {
+    box-shadow: none !important;
+    background-color: var(--teal) !important;
+    position: absolute;
+    top: 0px;
+}
+a.brand-logo {
+	color: var(--lightgrey);
+}
+a.title {
+	margin-left: 25px;
+}
+a.authors {
+	font-size: 20px;
+	margin-right: 25px;
+}
+
+/* Table */
+table {
+	width: 0%;
+}
+th, td {
+	padding: 15px 15px;
+	text-align: center;
+}
+th {
+	font-size: 25px;
+	color: var(--orange);
+}
+td {
+	font-size: 20px;
+	color: var(--darkgrey);
+}
