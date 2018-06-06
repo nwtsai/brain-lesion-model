@@ -20,7 +20,7 @@
 	* See 'lesions' directory for isolated brain lesion examples
 * Run ./train.sh to train the custom model 
 * Run ./test.sh to test the custom model
-* Open processed_test/index.html in your default browser to view the brain scan, model's guess, and actual isolated
+* Open processed_test/index.html in your default browser to view the brain scan, model's guess, actual isolated lesion, and the accuracy measured against the SSIM index between the guess and the true lesion
 
 ## Model Results ##
 ![alt tag](https://i.imgur.com/fSzn14P.png)
