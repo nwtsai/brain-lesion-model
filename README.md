@@ -1,12 +1,5 @@
 # Brain Lesion Segmentation #
 
-### Nathan Tsai - 304575323 ###
-### Bradley Zhu - 304627529 ###
-
-## Note ##
-* The trained model and the image datasets have been shared with the instructor directly and will not be shared on this repository
-* If you would like to train a local copy of the model, running ./train.sh and ./test.sh should suffice provided you supply your own 'lesions' and 'MRIscans' datasets
-
 ## Introduction ##
 * We created a conditional adversarial network model that identifies, analyzes, and isolates brain lesions from MRI scans
 * Brain lesions simply mean any abnormal brain tissues that appear as bright spots on the brain in MRI scans
