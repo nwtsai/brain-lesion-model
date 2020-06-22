@@ -1,4 +1,4 @@
-# Brain Lesion Segmentation #
+# Brain Lesion Model #
 
 ## Introduction ##
 * We created a conditional adversarial network model that identifies, analyzes, and isolates brain lesions from MRI scans
